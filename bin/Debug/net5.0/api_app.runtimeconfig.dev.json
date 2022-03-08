@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Keyur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Keyur\\.nuget\\packages"
+    ]
+  }
+}
